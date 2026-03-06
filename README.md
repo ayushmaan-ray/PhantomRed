@@ -167,4 +167,4 @@ crontab -l
 
 ## 👤 Author
 **Ayushman Ray**
-[LinkedIn](https://www.linkedin.com/in/ayushman-ray-16b265251/)
+ - [LinkedIn](https://www.linkedin.com/in/ayushman-ray-16b265251/)
